@@ -1,0 +1,2 @@
+add_lunch_combo omni_P450S10-eng
+add_lunch_combo omni_P450S10-userdebug
